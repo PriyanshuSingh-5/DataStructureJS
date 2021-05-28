@@ -76,7 +76,7 @@ console.log("Employee wage: " + empWage);
   empWage = WAGE_PER_HOUR*empHours;
   console.log("Total working hours in mmonth: "+empHours+"\nTotal monthly employee wage : " + empWage);
 
-  //UC5 Calculating Wages til a condition of total working hours of 160 or max days of 20 is reached for a month.
+  //UC5 Calculating Wages til a condition of total working hours of 160 or max days of 20 is reached for a month
   console.log("UC5 Calculating monthly wage given condition")
   const MAX_HOURS_IN_MONTHS=160;
   const MAX_NUMBER_OF_DAYS=20;
